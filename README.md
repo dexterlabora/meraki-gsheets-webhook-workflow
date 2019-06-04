@@ -29,3 +29,5 @@ Update the settings sheet with your API key, the base URL for your Meraki Dashbo
 - When the macro runs, it will check the occurredAt time for the alert and compare it against the timespan set in the settings sheet.
 - If the time has been reached, the devices will be rebooted and the event will be recorded in the Logs: VPN workflow sheet
 - If a new alert is received that states the connectiviy is true, the device will be removed from the reboot queue.
+
+![](https://github.com/dexterlabora/meraki-gsheets-webhook-workflow/blob/master/meraki-gsheets-webhook-workflow-screenshot.png)
