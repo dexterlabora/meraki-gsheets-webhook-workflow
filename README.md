@@ -32,4 +32,4 @@ Update the settings sheet with your API key, the base URL for your Meraki Dashbo
 
 
 
-![](https://github.com/dexterlabora/meraki-gsheets-webhook-workflow/blob/master/meraki-gsheets-webhook-workflow-animation.gif)
+![](https://github.com/dexterlabora/meraki-gsheets-webhook-workflow/blob/master/meraki-gsheets-webhook-workflow-animated.gif)
